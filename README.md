@@ -11,10 +11,10 @@ __技术文章记录__
         OOOOOOOOOoooooo,                                            |OOoooooOOOOOS
         OOOOOOOOOOOOOOOOo,                                          |OOOOOOOOOOOOC
         OOOOOOOOOOOOOOOOOO                                         ,|OOOOOOOOOOOOI
-        OOOOOOOOOOOOOOOOOO @          THE                          |OOOOOOOOOOOOOI
-        OOOOOOOOOOOOOOOOO'@           COMMAND                      OOOOOOOOOOOOOOb
-        OOOOOOOOOOOOOOO'a'            LINE                         |OOOOOOOOOOOOOy
-        OOOOOOOOOOOOOO''              MURDERS                      aa`OOOOOOOOOOOP
+        OOOOOOOOOOOOOOOOOO @                                       |OOOOOOOOOOOOOI
+        OOOOOOOOOOOOOOOOO'@                                        OOOOOOOOOOOOOOb
+        OOOOOOOOOOOOOOO'a'                                         |OOOOOOOOOOOOOy
+        OOOOOOOOOOOOOO''                                           aa`OOOOOOOOOOOP
         OOOOOOOOOOOOOOb,..                                          `@aa``OOOOOOOh
         OOOOOOOOOOOOOOOOOOo                                           `@@@aa OOOOo
         OOOOOOOOOOOOOOOOOOO|                                             @@@ OOOOe
@@ -24,7 +24,7 @@ __技术文章记录__
         OOOOOO aaaa@"""""""" ""            @@@@@@@@@@@@""               @@@|`OOOO'
         OOOOOOOo`@@a                  aa@@  @@@@@@@""         a@        @@@@ OOOO9
         OOOOOOO'  `@@a               @@a@@   @@""           a@@   a     |@@@ OOOO3
-	`OOOO'       `@    aa@@       aaa"""          @a        a@     a@@@',OOOO'
+        `OOOO'       `@    aa@@       aaa"""          @a        a@     a@@@',OOOO'
 
 
 - - - 
