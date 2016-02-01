@@ -33,14 +33,19 @@ __技术文章记录__
 *  [电商网站的初期技术选型](http://www.infoq.com/cn/articles/e-commerce-web-tech-stack)
 *  [RabbitMQ从入门到精通](http://blog.csdn.net/column/details/rabbitmq.html)
 *  [存储那些事儿](http://blog.csdn.net/column/details/storagesystem.html)
+*  [前后端分离的思考与实践](http://ued.taobao.org/blog/2014/04/full-stack-development-with-nodejs/)
+*  [Web系统大规模并发：电商秒杀与抢购](http://blog.jobbole.com/91754/?url_type=39&object_type=webpage&pos=1)
 
+- - - 
 
+##前端
+*  [Chrome开发者工具之JavaScript内存分析](http://www.codeceo.com/article/chrome-javascript-memory.html)
 
 - - - 
 ##关于作者
 
 ```javascript
-  var ihubo = {
+  var coder = {
     nickName  : "Lancer"
   }
 ```
