@@ -40,6 +40,7 @@ __技术文章记录__
 
 ##前端
 *  [Chrome开发者工具之JavaScript内存分析](http://www.codeceo.com/article/chrome-javascript-memory.html)
+*  [单页应用开发权威指南](https://github.com/island205/Single-Page-App-Break)
 
 - - - 
 ##关于作者
