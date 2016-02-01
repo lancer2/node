@@ -47,6 +47,8 @@ __技术文章记录__
 
 ##工具
 *  [在线编辑markdown文档编辑器](http://mahua.jser.me/)
+*  [Convert JavaScript to CoffeeScript](http://js2.coffee/)
+*  [IntelliJ IDEA 注册码](http://idea.lanyus.com/)
 
 - - - 
 ##关于作者
