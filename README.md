@@ -35,6 +35,7 @@ __技术文章记录__
 *  [存储那些事儿](http://blog.csdn.net/column/details/storagesystem.html)
 *  [前后端分离的思考与实践](http://ued.taobao.org/blog/2014/04/full-stack-development-with-nodejs/)
 *  [Web系统大规模并发：电商秒杀与抢购](http://blog.jobbole.com/91754/?url_type=39&object_type=webpage&pos=1)
+*  [详解当当网的分布式作业框架elastic-job](http://www.infoq.com/cn/articles/dangdang-distributed-work-framework-elastic-job)
 
 - - - 
 
