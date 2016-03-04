@@ -46,6 +46,12 @@ __技术文章记录__
 
 - - - 
 
+##后端
+*  [Quartz深入浅出(一)](http://blog.csdn.net/chenweitang123/article/details/37777399)
+*  [Quartz -JOB类型与动态设定Trigger参数](http://blog.csdn.net/liu251/article/details/4459815)
+
+- - - 
+
 ##工具
 *  [在线编辑markdown文档编辑器](http://mahua.jser.me/)
 *  [Convert JavaScript to CoffeeScript](http://js2.coffee/)
